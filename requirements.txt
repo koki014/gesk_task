@@ -1,0 +1,5 @@
+asgiref==3.5.0
+channels==3.0.4
+Django==4.0.3
+mqttasgi==0.3.3
+paho-mqtt==1.6.1
